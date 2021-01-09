@@ -3,6 +3,7 @@ A simple bash script to watch YouTube videos through the Invidious API
 
 ## How it looks
 
+```
  > ./invidious-cli.sh
 Enter your search query
 i2p tutorial
@@ -28,3 +29,4 @@ i2p tutorial
     20  How to get onto I2P, the anonymous P2P Darknet (Windows Install)
 
 Enter the number of the video you want to watch
+```
